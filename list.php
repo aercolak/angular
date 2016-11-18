@@ -2,7 +2,7 @@
 <table>
   <thead>
   <tr>
-    <th>Project</th>
+    <th>Project a</th>
     <th>Description</th>
     <th><a href="#/new"><i class="icon-plus-sign"></i></a></th>
   </tr>
