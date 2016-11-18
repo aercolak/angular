@@ -14,6 +14,6 @@
     <td>
       <a ng-href="#/edit/{{project.$id}}"><i class="icon-pencil"></i></a>
     </td>
-  </tr> 
+  </tr>  
   </tbody>
 </table>
